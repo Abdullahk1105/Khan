@@ -11,3 +11,10 @@ const hello = () => {
     return;
 }
 ```
+
+
+```js
+const sup = () => {
+    return;
+}
+```
